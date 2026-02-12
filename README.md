@@ -1,130 +1,77 @@
-💰 Personal Finance Dashboard – Power BI Project
-📌 Project Overview
+# Personal Finance Dashboard – Power BI Project
 
-This project is a Personal Finance Dashboard built using Microsoft Power BI with an Excel-based finance database.
+## Project Overview
 
-The goal of this project is to analyze personal income, expenses, savings, and spending patterns through interactive visualizations and KPIs.
+This project is a Personal Finance Dashboard developed using Microsoft Power BI with an Excel-based financial dataset. The purpose of this project is to analyze income, expenses, savings, and spending patterns through interactive visualizations and key performance indicators.
 
-This project demonstrates skills in:
+The dashboard helps in understanding financial behavior and supports better budgeting and financial decision-making.
 
-Data cleaning
+---
 
-Data modeling
+## Tools and Technologies Used
 
-Data visualization
+* Microsoft Power BI (.pbix)
+* Microsoft Excel (.xlsx)
+* Power Query
+* DAX (Data Analysis Expressions)
+* Data Modeling
 
-Financial analysis
+---
 
-Dashboard design
+## Project Files
 
-🛠 Tools & Technologies Used
+* Finance Database.xlsx – Raw financial dataset
+* Personal Finance Dashboard.pbix – Power BI dashboard file
 
-Microsoft Power BI (.pbix)
+---
 
-Microsoft Excel (.xlsx)
+## Dashboard Features
 
-Power Query
+The dashboard includes:
 
-DAX (Data Analysis Expressions)
+* Total Income
+* Total Expenses
+* Net Savings
+* Savings Rate Percentage
+* Category-wise Expense Analysis
+* Monthly Income vs Expense Trend
+* Interactive filters for month and category selection
 
-Data Modeling
+---
 
-📂 Project Files
+## Key Insights
 
-Finance Database.xlsx → Raw financial dataset
+* Identifies major spending categories
+* Tracks monthly financial performance
+* Analyzes savings patterns
+* Compares income and expenses over time
+* Supports data-driven financial planning
 
-Personal Finance Dashboard.pbix → Power BI dashboard file
+---
 
-📊 Dashboard Features
+## Skills Demonstrated
 
-The dashboard provides:
+* Data cleaning and transformation using Power Query
+* Creation of calculated columns and measures using DAX
+* Data modeling and relationship building
+* Financial data analysis
+* Dashboard design and data visualization
 
-🔹 Key Performance Indicators (KPIs)
+---
 
-Total Income
+## Objective
 
-Total Expenses
+The objective of this project is to apply business intelligence concepts to personal finance data and build a structured, interactive dashboard that provides meaningful financial insights.
 
-Net Savings
+---
 
-Savings Rate (%)
+## How to Use
 
-Category-wise Spending
+1. Download the repository files.
+2. Open the Personal Finance Dashboard.pbix file in Power BI Desktop.
+3. Ensure the Excel file (Finance Database.xlsx) is correctly linked.
+4. Refresh the dataset if required.
 
-🔹 Visualizations
+---
 
-Monthly income vs expenses trend
-
-Expense breakdown by category
-
-Savings analysis
-
-Interactive filters (month, category, etc.)
-
-Comparative financial analysis
-
-📈 Key Insights Generated
-
-Identifies major spending categories
-
-Tracks monthly financial performance
-
-Monitors savings growth
-
-Highlights spending trends and patterns
-
-Helps in budgeting and financial planning
-
-🧠 Skills Demonstrated
-
-Data transformation using Power Query
-
-Creating calculated columns and measures using DAX
-
-Designing interactive dashboards
-
-Financial data analysis
-
-Visual storytelling with data
-
-🎯 Project Objective
-
-The objective of this project is to:
-
-Understand personal finance management using data analytics
-
-Build a professional-level dashboard
-
-Apply business intelligence concepts to real-world financial data
-
-🚀 How to Use
-
-Download the repository files.
-
-Open Personal Finance Dashboard.pbix in Power BI Desktop.
-
-Ensure the Excel file (Finance Database.xlsx) is properly linked.
-
-Refresh the data if needed.
-
-📌 Learning Outcome
-
-This project helped in:
-
-Understanding real-world data handling
-
-Practicing financial KPI analysis
-
-Improving dashboard design skills
-
-Applying business intelligence techniques in finance
-
-📎 Future Improvements
-
-Add forecasting for future expenses
-
-Implement budget vs actual comparison
-
-Automate data updates
-
-Add advanced financial metrics
+This project demonstrates practical knowledge of Power BI and financial analytics in a real-world use case scenario.
